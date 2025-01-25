@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Moody Amin</h1>
-<h3 align="center">Hi there! I'm a good Front-end Developer with a keen eye for crafting intuitive and user-friendly interfaces. With every project, I strive to merge functionality with clean, responsive design to deliver impact-full digital experiences. Always curious and eager to learn, When I'm not coding, you can find me mentoring other young developers. Let’s build something amazing together! 🚀</h3>
+I'm a good Front-end Developer with a keen eye for user-friendly interfaces. With every project, I strive to merge functionality, responsive design to deliver impact-full digital experiences. Always curious and eager to learn, When I'm not coding, you can find me mentoring other young developers.
 
 # 💫 About Me:
 🔭 I’m currently working on : Building innovative web applications<br>👯 I’m looking to collaborate on : Open-source frontend projects, React/Next.js-based applications, or anything that empowers students and communities.<br>🤝 I’m looking for help with : Improving accessibility and UI/UX for inclusive design in web applications.<br>🌱 I’m currently learning : React-Native and exploring AI-driven design for mobile money interfaces.<br>💬 Ask me about : Frontend development, building user-friendly interfaces, and tips for starting with modern web development.<br>⚡ Fun fact : I see every bug as a puzzle, and solving it is my favorite part of the job!
@@ -15,11 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heismoody&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heismoody&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=heismoody&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=heismoody&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
