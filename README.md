@@ -2,7 +2,7 @@
 I'm a good Front-end Developer with an eye for user-friendly interfaces. With every project, I strive to merge functionality, responsive design to deliver impact-full digital experiences. Always curious and eager to learn, When I'm not coding, you can find me mentoring other young developers.
 
 # 💫 About Me:
-🔭 I’m currently working on : Building innovative web applications<br>👯 I’m looking to collaborate on : Open-source frontend projects, React/Next.js-based applications, or anything that empowers students and communities.<br>🤝 I’m looking for help with : Improving accessibility and UI/UX for inclusive design in web applications.<br>🌱 I’m currently learning : React-Native and exploring AI-driven design for mobile money interfaces.<br>💬 Ask me about : Frontend development, building user-friendly interfaces, and tips for starting with modern web development.<br>⚡ Fun fact : I see every bug as a puzzle, and solving it is my favorite part of the job!
+🔭 I’m currently working on : Building innovative web applications<br>👯 I’m looking to collaborate on : Open-source frontend projects, React/Next.js-based applications, or anything that empowers students and communities.<br>🤝 I’m looking for help with : Improving accessibility and UI/UX for inclusive design in web applications.<br>🌱 I’m currently learning : React-Native and exploring AI-driven design for mobile money interfaces.<br>💬 Ask me about : Frontend development, building user-friendly interfaces, and tips on modern web development.<br>⚡ Fun fact : I see every bug as a puzzle, and solving it is my favorite part of the job!
 
 
 ## 🌐 Socials:
